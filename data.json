@@ -1,0 +1,24 @@
+{
+    "emp_detalls": [
+        {
+            "username": " Elbek",
+            "password": "10293847",
+            "status": "True"
+        },
+        {
+            "username": "qwerty",
+            "password": "12345678",
+            "status": "False"
+        },
+        {
+            "username": " qasdfg",
+            "password": "10293812345",
+            "status": "True"
+        },
+        {
+            "username": "qwsdv",
+            "password": "1234rt",
+            "status": false
+        }
+    ]
+}
